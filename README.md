@@ -15,7 +15,7 @@ Bộ ngôn ngữ Tiếng Việt hoàn chỉnh, được chuẩn hóa 100% theo n
 
 | Hệ điều hành | Gói cài đặt | Tải trực tiếp | Cách cài đặt nhanh |
 | :--- | :--- | :---: | :--- |
-| 🪟 **Windows** *(10 / 11)* | `CaptureOne_VietHoa_Chuan_16.9.zip` | [⬇️ **Tải bản Windows (.zip)**](https://github.com/hoangdiep99/CaptureOne-Vietnamese-Language-Pack/releases/latest/download/CaptureOne_VietHoa_Chuan_16.9.zip) | Giải nén, chạy `install_windows.bat` bằng quyền Administrator |
+| 🪟 **Windows** *(10 / 11)* | `CaptureOne_VietHoa_Chuan_16.9.zip` | [⬇️ **Tải bản Windows (.zip)**](https://github.com/hoangdiep99/CaptureOne-Vietnamese-Language-Pack/releases/latest/download/CaptureOne_VietHoa_Chuan_16.9.zip) | Giải nén, chạy `Cai_Dat_Tieng_Viet.bat` bằng quyền Administrator |
 | 🍎 **macOS** *(Intel & M1/M2/M3/M4)* | `CaptureOne_VietHoa_Mac_16.9.zip` | [⬇️ **Tải bản macOS (.zip)**](https://github.com/hoangdiep99/CaptureOne-Vietnamese-Language-Pack/releases/latest/download/CaptureOne_VietHoa_Mac_16.9.zip) | Giải nén, mở Terminal chạy `sudo ./install_mac.sh` |
 
 > 📌 *Các bản phát hành và lịch sử cập nhật xem tại: [Danh sách Releases](https://github.com/hoangdiep99/CaptureOne-Vietnamese-Language-Pack/releases).*
@@ -74,7 +74,7 @@ Hỗ trợ cả máy Mac chạy chip Intel và Apple Silicon (M1, M2, M3, M4...)
 ### 🪟 Dành cho Windows (Windows 10, Windows 11)
 
 1. [Tải bản Windows](https://github.com/hoangdiep99/CaptureOne-Vietnamese-Language-Pack/releases/latest/download/CaptureOne_VietHoa_Chuan_16.9.zip) và giải nén.
-2. Nhấp chuột phải vào file **`install_windows.bat`** ➔ Chọn **Run as administrator** (Chạy với quyền Quản trị viên).
+2. Nhấp chuột phải vào file **`Cai_Dat_Tieng_Viet.bat`** ➔ Chọn **Run as administrator** (Chạy với quyền Quản trị viên).
 3. Script sẽ tự động:
    - Tạo bản sao lưu file gốc `P1.C1.Localization.dll.orig`.
    - Cài đặt thư viện ngôn ngữ Tiếng Việt và các file vệ tinh.
@@ -82,7 +82,7 @@ Hỗ trợ cả máy Mac chạy chip Intel và Apple Silicon (M1, M2, M3, M4...)
 4. Khởi động Capture One.
 
 #### 🔄 Cách quay về Tiếng Anh gốc trên Windows:
-- Nhấp chuột phải vào file **`restore_windows.bat`** ➔ Chọn **Run as administrator**.
+- Nhấp chuột phải vào file **`Khoi_Phuc_Tieng_Anh.bat`** ➔ Chọn **Run as administrator**.
 
 ---
 
