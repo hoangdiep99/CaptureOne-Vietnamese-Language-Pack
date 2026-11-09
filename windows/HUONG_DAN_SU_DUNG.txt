@@ -1,0 +1,18 @@
+======================================================================
+  HƯỚNG DẪN CÀI ĐẶT GÓI TIẾNG VIỆT CHUẨN CHO CAPTURE ONE (WINDOWS)
+======================================================================
+
+1. CÀI ĐẶT:
+- BƯỚC 1: Giải nén toàn bộ file ZIP này ra một thư mục trên máy (ví dụ Desktop hoặc Downloads).
+          (Lưu ý: Không chạy trực tiếp từ trong cửa sổ WinRAR).
+- BƯỚC 2: Nhấp đúp (hoặc nhấp chuột phải chọn 'Run as administrator') vào file:
+          Cai_Dat_Tieng_Viet.bat  (hoặc install_windows.bat)
+- BƯỚC 3: Mở Capture One và tận hưởng giao diện Tiếng Việt!
+
+2. KHÔI PHỤC TIẾNG ANH GỐC:
+- Nhấp đúp vào file: Khoi_Phuc_Tieng_Anh.bat (hoặc restore_windows.bat)
+
+3. HỖ TRỢ PHIÊN BẢN:
+- Bộ cài tương thích với Capture One 16.x Pro (Windows 10, Windows 11).
+- Tự động nhận diện mọi vị trí cài đặt (ổ C, ổ D...).
+- Tự động sao lưu file gốc và cấu hình tiếng Việt không cần thao tác thủ công.
